@@ -1,1 +1,2 @@
 # Musify
+UCSD MAP Project
